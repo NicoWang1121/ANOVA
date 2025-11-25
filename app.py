@@ -1,3 +1,4 @@
+plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'Heiti TC']
 import streamlit as st
 import pandas as pd
 import numpy as np
